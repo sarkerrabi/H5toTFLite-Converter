@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="153031a9-c280-49c8-b400-d02199267e4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X5HdZHk9gKKYAEMs4OvjnEegcq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="MyConverter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="H5TotfLiteConverter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MyConverter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="H5TotfLiteConverter" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.MyConverter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1163" y="267" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580505317402">
+      <screen x="0" y="27" width="1920" height="983" />
+    </state>
+    <state x="1163" y="267" width="524" height="501" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.983@0.27.1920.983" timestamp="1580505317402" />
+    <state width="937" height="264" key="GridCell.Tab.0.bottom" timestamp="1580504164971">
+      <screen x="0" y="27" width="1920" height="983" />
+    </state>
+    <state width="937" height="264" key="GridCell.Tab.0.bottom/0.27.1920.983@0.27.1920.983" timestamp="1580504164971" />
+    <state width="937" height="264" key="GridCell.Tab.0.center" timestamp="1580504164971">
+      <screen x="0" y="27" width="1920" height="983" />
+    </state>
+    <state width="937" height="264" key="GridCell.Tab.0.center/0.27.1920.983@0.27.1920.983" timestamp="1580504164971" />
+    <state width="937" height="264" key="GridCell.Tab.0.left" timestamp="1580504164970">
+      <screen x="0" y="27" width="1920" height="983" />
+    </state>
+    <state width="937" height="264" key="GridCell.Tab.0.left/0.27.1920.983@0.27.1920.983" timestamp="1580504164970" />
+    <state width="937" height="264" key="GridCell.Tab.0.right" timestamp="1580504164971">
+      <screen x="0" y="27" width="1920" height="983" />
+    </state>
+    <state width="937" height="264" key="GridCell.Tab.0.right/0.27.1920.983@0.27.1920.983" timestamp="1580504164971" />
+    <state x="827" y="106" key="SettingsEditor" timestamp="1580505305523">
+      <screen x="0" y="27" width="1920" height="983" />
+    </state>
+    <state x="827" y="106" key="SettingsEditor/0.27.1920.983@0.27.1920.983" timestamp="1580505305523" />
+    <state x="1104" y="236" key="run.anything.popup" timestamp="1580483932849">
+      <screen x="0" y="27" width="1920" height="983" />
+    </state>
+    <state x="1104" y="236" key="run.anything.popup/0.27.1920.983@0.27.1920.983" timestamp="1580483932849" />
+    <state x="1103" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1580484578402">
+      <screen x="0" y="27" width="1920" height="983" />
+    </state>
+    <state x="1103" y="241" width="672" height="678" key="search.everywhere.popup/0.27.1920.983@0.27.1920.983" timestamp="1580484578402" />
+  </component>
+</project>
